@@ -1,3 +1,3 @@
 # CH25fast
-Making students understand to deploy fast API using render cloud
+Practising Deployment. First step for deployment
 We will deploy Iris dataset
